@@ -177,6 +177,15 @@ generic transpiler, can be trained to translate all languages
 - compiles from: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
 - compiles to: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
 
+### Rascal
+
+- https://github.com/usethesource/rascal - 300 stars
+- https://www.rascal-mpl.org/docs/WhyRascal/UseCases/SourceToSource
+- metaprogramming language
+- written in: Java
+- compiles from: any
+- compiles to: any
+
 ### codeworker
 
 - http://codeworker.free.fr/
