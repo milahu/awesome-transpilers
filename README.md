@@ -225,6 +225,14 @@ compiles to: Rust
 - languages: C, C++, CUDA, OpenCL
 - last commit: 2022
 
+### RapidFingers/Craxe
+
+- https://github.com/RapidFingers/Craxe - 40 stars
+- written in: Haxe
+- compiles from: Haxe
+- compiles to: Nim
+- last commit: 2019
+
 ### Ranger
 
 https://github.com/terotests/Ranger - 5 stars
