@@ -71,6 +71,16 @@ compiles from: TypeScript, C#, Ruby
 
 compiles to: C++, C#, Go, Java, JS, Perl, PHP, Python, Ruby, Swift, TypeScript
 
+### c2rust
+
+https://github.com/immunant/c2rust - 3K stars
+
+written in: Rust
+
+compiles from: C, C++
+
+compiles to: Rust
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
