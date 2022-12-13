@@ -123,6 +123,13 @@ compiles to: Rust
 - compiles to: Java, C, C++, JavaScript, C#, R, PHP, Python, Visual Basic
 - since: 2018
 
+### jtransc
+
+- https://github.com/jtransc/jtransc - 500 stars - archived
+- written in: Java
+- compiles from: Java, Kotlin
+- compiles to: JavaScript, C++, D, C#, PHP, AS3, Dart, Haxe
+
 ### codeworker
 
 - http://codeworker.free.fr/
