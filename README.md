@@ -19,7 +19,6 @@
 
 * [c2go](https://github.com/elliotchance/c2go) A tool for transpiling C to Go.
 * [Grumpy](https://github.com/google/grumpy) Grumpy is a Python to Go source code transcompiler and runtime.
-* [Godzilla](https://github.com/jingweno/godzilla) Godzilla is a ES2015 to Go source code transpiler and runtime.
 
 ### Java
 
@@ -109,6 +108,14 @@ compiles to: Rust
 - written in: TypeScript
 - compiles from: TypeScript
 - compiles to: Lua
+
+### jingweno/godzilla
+
+- https://github.com/jingweno/godzilla - 1.5K stars
+- written in: Go
+- compiles from: JavaScript
+- compiles to: Go
+- last commit: 2017
 
 ### TypeScript2Cxx
 
