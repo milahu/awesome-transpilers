@@ -223,6 +223,14 @@ generic transpiler, can be trained to translate all languages
 - compiles from: any
 - compiles to: any
 
+### true-grue/raddsl
+
+- https://github.com/true-grue/raddsl - 100 stars
+- Tools for rapid prototyping of DSL compilers
+- features: parse, transform
+- written in: Python
+- last commit: 2021
+
 ### codeworker
 
 - http://codeworker.free.fr/
