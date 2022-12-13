@@ -63,3 +63,8 @@ to: C
 
 - https://github.com/topics/transpiler
 - https://github.com/topics/source-to-source
+
+## See also
+
+- https://github.com/transpiler/awesome-transpiler
+- https://github.com/JohnDeved/awesome-typescript-compilers
