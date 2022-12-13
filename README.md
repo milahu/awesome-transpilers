@@ -104,6 +104,7 @@ compiles to: Rust
 ### Progsbase
 
 - https://www.progsbase.com/
+- "Job Payments: You can create programming jobs using the progsbase client. Create payments here to reward developers who implement a solution to your job."
 - closed source
 - Free Community Plan: convert TypeScript, Java, C, C++, JavaScript, C#, PHP, Python, Visual Basic, Swift, LibreOffice Basic, Ruby, Visual Basic
 - written in: Java, Progsbase
