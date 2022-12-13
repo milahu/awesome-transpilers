@@ -104,6 +104,14 @@ compiles to: Rust
 - compiles to: Nim
 - last commit: 2021
 
+### andreikop/cpp2python
+
+- https://github.com/andreikop/cpp2python - 150 stars
+- written in: Python
+- compiles from: C++
+- compiles to: Python
+- last commit: 2019
+
 ### seasnake
 
 - https://github.com/pybee/seasnake - 150 stars - archived
