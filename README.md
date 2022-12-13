@@ -152,6 +152,8 @@ https://sourceforge.net/projects/cxx2cs/
 
 can be used for all languages
 
+- program transformation systems https://en.wikipedia.org/wiki/List_of_program_transformation_systems
+
 ### Facebook TransCoder
 
 https://github.com/facebookresearch/TransCoder - 1.5K stars
