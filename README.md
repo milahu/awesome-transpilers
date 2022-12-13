@@ -257,6 +257,13 @@ can be used for all languages
 
 - program transformation systems https://en.wikipedia.org/wiki/List_of_program_transformation_systems
 
+### comby
+
+- https://github.com/comby-tools/comby - 2K stars
+- A code rewrite tool for structural search and replace that supports about every language
+- written in: OCaml
+- languages: C, Java, Go, Swift, Rust, PHP, TypeScript, JavaScript, ...
+
 ### JetBrains MPS
 
 - https://github.com/JetBrains/MPS - 1.5K stars
