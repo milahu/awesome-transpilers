@@ -34,7 +34,6 @@
 
 * [Shift.JS](https://github.com/shift-js/shift-js) Swift to JavaScript transpiler.
 * [ElixirScript](https://github.com/elixirscript/elixirscript) Converts Elixir to JavaScript.
-* [J2CL](https://github.com/google/j2cl) Java to Closure JavaScript transpiler.
 * [GopherJS](https://github.com/gopherjs/gopherjs) A compiler from Go to JavaScript for running Go code in a browser.
 * [Dart2js](https://dart.dev/tools/dart2js) Use the dart2js tool to compile Dart code to deployable JavaScript.
 
@@ -124,6 +123,14 @@ compiles to: Rust
 - written in: Java
 - compiles from: Java
 - compiles to: JavaScript
+- last commit: 2022
+
+### google/j2cl
+
+- https://github.com/google/j2cl - 1K stars
+- written in: Java
+- compiles from: Java
+- compiles to: JavaScript, Closure JavaScript
 - last commit: 2022
 
 ### TypeScript2Cxx
