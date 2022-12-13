@@ -103,6 +103,13 @@ compiles to: Rust
 - compiles from: Cito
 - compiles to: C, C++, C#, Java, JavaScript, Python, Swift, TypeScript, OpenCL C
 
+### TypeScriptToLua
+
+- https://github.com/TypeScriptToLua/TypeScriptToLua - 1.5K stars
+- written in: TypeScript
+- compiles from: TypeScript
+- compiles to: Lua
+
 ### TypeScript2Cxx
 
 - https://github.com/ASDAlexander77/TypeScript2Cxx - 500 stars
