@@ -124,3 +124,5 @@ compiles to: Rust
 - https://github.com/aalhour/awesome-compilers
 - https://github.com/onelang/OneLang/wiki/OneLang-vs.-Haxe-vs.-Progsbase-comparison
 - https://en.wikipedia.org/wiki/Source-to-source_compiler
+- https://devopedia.org/transpiler
+- https://aterik.github.io/Transpiler.and.similar.List/List/
