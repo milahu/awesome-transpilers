@@ -122,6 +122,14 @@ https://github.com/terotests/Ranger - 5 stars
 - compiles to: JavaScript, Java, Go, Swift, PHP, C++, C#, Scala
 - last commit: 2018
 
+### cxx2cs
+
+https://sourceforge.net/projects/cxx2cs/
+
+- compiles from: C++
+- compiles to: C#
+- last commit: 2015
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
