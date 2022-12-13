@@ -87,6 +87,14 @@ compiles to: Rust
 - compiles from: Haxe
 - compiles to: AS2, AS3, C++, C#, Java, JS, Lua, Neko, PHP, Python	
 
+### QQuick/Transcrypt
+
+- https://github.com/QQuick/Transcrypt - 3K stars
+- written in: Python
+- compiles from: Python
+- compiles to: JavaScript
+- last commit: 2022
+
 ### Cito
 
 - https://github.com/pfusik/cito - 1.5K stars
