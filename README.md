@@ -57,12 +57,11 @@ compiles to: Rust
 
 - https://leaningtech.com/cheerp/
 - https://leaningtech.com/cheerp-2-6-compiling-c-to-webassembly-and-javascript/
-- https://github.com/leaningtech/cheerp-meta
-- https://github.com/leaningtech/cheerp-compiler
-
+- https://github.com/leaningtech/cheerp-meta - 800 stars
+- https://github.com/leaningtech/cheerp-compiler - 200 stars
 - license: open source, with dual licence (GPLv2 & commercial), some plugins are closed source (WebAssembly memory profiler, Filesystem emulation)
 - based on: LLVM
-- written in: C++ (?)
+- written in: C++
 - compiles from: C, C++, Java, x86, Adobe Flash
 - compiles to: WASM
 
