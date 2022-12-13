@@ -90,3 +90,6 @@ compiles to: Rust
 
 - https://github.com/transpiler/awesome-transpiler
 - https://github.com/JohnDeved/awesome-typescript-compilers
+- https://github.com/aalhour/awesome-compilers
+- https://github.com/onelang/OneLang/wiki/OneLang-vs.-Haxe-vs.-Progsbase-comparison
+- https://en.wikipedia.org/wiki/Source-to-source_compiler
