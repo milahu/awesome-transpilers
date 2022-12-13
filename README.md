@@ -141,6 +141,14 @@ compiles to: Rust
 - compiles to: Python
 - last commit: 2022
 
+### pseudo-lang
+
+- https://github.com/pseudo-lang/pseudo - 700 stars
+- written in: Python
+- compiles from: Python
+- compiles to: JavaScript, Go, C#, Ruby
+- last commit: 2021
+
 ### TypeScript2Cxx
 
 - https://github.com/ASDAlexander77/TypeScript2Cxx - 500 stars
