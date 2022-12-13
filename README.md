@@ -102,6 +102,14 @@ compiles to: Rust
 - compiles to: C++
 - last commit: 2021
 
+### prometeo
+
+- https://github.com/zanellia/prometeo - 500 stars
+- written in: Python
+- compiles from: Python
+- compiles to: C
+- last commit: 2022
+
 ### ts2nim
 
 - https://github.com/bung87/ts2nim - 50 stars
