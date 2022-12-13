@@ -94,6 +94,13 @@ compiles to: Rust
 - compiles from: C, C++, Java, x86, Adobe Flash
 - compiles to: WASM
 
+### Haxe
+
+- https://github.com/HaxeFoundation/haxe - 5K stars
+- written in: OCaml
+- compiles from: Haxe
+- compiles to: AS2, AS3, C++, C#, Java, JS, Lua, Neko, PHP, Python	
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
