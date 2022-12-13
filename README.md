@@ -142,7 +142,7 @@ compiles to: Rust
 
 ### LingDong-/wax
 
-- https://github.com/LingDong-/wax
+- https://github.com/LingDong-/wax - 600 stars
 - A tiny programming language
 - written in: C
 - compiles from: Wax
