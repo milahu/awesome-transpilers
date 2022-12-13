@@ -123,6 +123,12 @@ compiles to: Rust
 - compiles to: Java, C, C++, JavaScript, C#, R, PHP, Python, Visual Basic
 - since: 2018
 
+### codeworker
+
+- http://codeworker.free.fr/
+- CodeWorker can be trained to parse almost any language
+- last version: 2010
+
 ### Ranger
 
 https://github.com/terotests/Ranger - 5 stars
