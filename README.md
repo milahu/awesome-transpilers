@@ -51,13 +51,11 @@ to: C
 
 ### OneLang
 
-https://github.com/onelang/OneLang - 1K stars
-
-written in: TypeScript
-
-compiles from: TypeScript, C#, Ruby
-
-compiles to: C++, C#, Go, Java, JS, Perl, PHP, Python, Ruby, Swift, TypeScript
+- https://github.com/onelang/OneLang - 1K stars
+- written in: TypeScript
+- compiles from: TypeScript, C#, Ruby
+- compiles to: C++, C#, Go, Java, JS, Perl, PHP, Python, Ruby, Swift, TypeScript
+- last commit: 2021
 
 ### c2rust
 
