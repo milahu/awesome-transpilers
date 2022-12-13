@@ -207,7 +207,13 @@ generic transpiler, can be trained to translate all languages
 - CodeWorker can be trained to parse almost any language
 - last version: 2010
 
+### SemanticDesigns DMS Toolkit
 
+- https://www.semanticdesigns.com/Products/DMS/DMSToolkit.html
+- Software Reengineering Toolkit
+- closed source
+- languages: C++, Java, COBOL, SQL, HTML, Verilog, ...
+- written in: PARLANSE = parallel language. As an example, the attribute evaluation process is automatically parallelized, and can often provide a linear speedup on an N-way SMP system.
 
 ## GitHub topics
 
