@@ -41,18 +41,6 @@
 
 ## Transpilers
 
-### Facebook TransCoder
-
-https://github.com/facebookresearch/TransCoder - 1.5K stars
-
-tags: ai, machine learning, generic
-
-from: C++, Java, Python
-
-to: C++, Java, Python
-
-generic transpiler, can be trained to translate all languages
-
 ### ts2c
 
 https://github.com/andrei-markeev/ts2c - 1K stars
@@ -101,17 +89,6 @@ compiles to: Rust
 - compiles from: Haxe
 - compiles to: AS2, AS3, C++, C#, Java, JS, Lua, Neko, PHP, Python	
 
-### jarble/transpiler
-
-- https://github.com/jarble/transpiler - 400 stars
-- translates a small subset of several programming languages into several others
-- translate several metasyntax notations, such as EBNF and ABNF
-- experimental "proof-of-concept," so it can only translate relatively simple programs
-- A major goal of this project is to translate TypeScript and JavaScript to other languages that compile to C or native code. For example, it's possible to translate a subset of TypeScript to Zig
-- written in: JavaScript
-- compiles from: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
-- compiles to: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
-
 ### TypeScript2Cxx
 
 - https://github.com/ASDAlexander77/TypeScript2Cxx - 500 stars
@@ -153,12 +130,6 @@ compiles to: Rust
 - compiles from: Java, Kotlin
 - compiles to: JavaScript, C++, D, C#, PHP, AS3, Dart, Haxe
 
-### codeworker
-
-- http://codeworker.free.fr/
-- CodeWorker can be trained to parse almost any language
-- last version: 2010
-
 ### Ranger
 
 https://github.com/terotests/Ranger - 5 stars
@@ -176,6 +147,41 @@ https://sourceforge.net/projects/cxx2cs/
 - compiles from: C++
 - compiles to: C#
 - last commit: 2015
+
+## Transpiler Frameworks
+
+can be used for all languages
+
+### Facebook TransCoder
+
+https://github.com/facebookresearch/TransCoder - 1.5K stars
+
+tags: ai, machine learning, generic
+
+from: C++, Java, Python
+
+to: C++, Java, Python
+
+generic transpiler, can be trained to translate all languages
+
+### jarble/transpiler
+
+- https://github.com/jarble/transpiler - 400 stars
+- translates a small subset of several programming languages into several others
+- translate several metasyntax notations, such as EBNF and ABNF
+- experimental "proof-of-concept," so it can only translate relatively simple programs
+- A major goal of this project is to translate TypeScript and JavaScript to other languages that compile to C or native code. For example, it's possible to translate a subset of TypeScript to Zig
+- written in: JavaScript
+- compiles from: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
+- compiles to: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
+
+### codeworker
+
+- http://codeworker.free.fr/
+- CodeWorker can be trained to parse almost any language
+- last version: 2010
+
+
 
 ## GitHub topics
 
