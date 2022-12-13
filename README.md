@@ -249,3 +249,4 @@ generic transpiler, can be trained to translate all languages
 - https://en.wikipedia.org/wiki/Source-to-source_compiler
 - https://devopedia.org/transpiler
 - https://aterik.github.io/Transpiler.and.similar.List/List/
+- https://github.com/milahu/awesome-component-converters - html components: react, svelte, solidjs, vue, angular, ...
