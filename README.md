@@ -61,6 +61,16 @@ from: typescript, javascript
 
 to: C
 
+### OneLang
+
+https://github.com/onelang/OneLang - 1K stars
+
+written in: TypeScript
+
+compiles from: TypeScript, C#, Ruby
+
+compiles to: C++, C#, Go, Java, JS, Perl, PHP, Python, Ruby, Swift, TypeScript
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
