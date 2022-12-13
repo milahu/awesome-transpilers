@@ -144,9 +144,12 @@ compiles to: Rust
 ### pseudo-lang
 
 - https://github.com/pseudo-lang/pseudo - 700 stars
+- one to many
+- generate readable code
+- help with automated translation for cases like algorithm generation, parser generation, refactoring, porting codebases
 - written in: Python
-- compiles from: Python
-- compiles to: JavaScript, Go, C#, Ruby
+- compiles from: Pseudo
+- compiles to: Python, JavaScript, Go, C#, C++, Ruby
 - last commit: 2021
 
 ### TypeScript2Cxx
