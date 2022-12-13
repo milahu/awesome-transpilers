@@ -89,6 +89,14 @@ compiles to: Rust
 - compiles from: Haxe
 - compiles to: AS2, AS3, C++, C#, Java, JS, Lua, Neko, PHP, Python	
 
+### Cito
+
+- https://github.com/pfusik/cito - 1.5K stars
+- one to many
+- written in: C#
+- compiles from: Cito
+- compiles to: C, C++, C#, Java, JavaScript, Python, Swift, TypeScript, OpenCL C
+
 ### TypeScript2Cxx
 
 - https://github.com/ASDAlexander77/TypeScript2Cxx - 500 stars
