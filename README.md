@@ -112,6 +112,13 @@ compiles to: Rust
 - compiles from: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
 - compiles to: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
 
+### TypeScript2Cxx
+
+- https://github.com/ASDAlexander77/TypeScript2Cxx - 500 stars
+- compiles from: TypeScript
+- compiles to: C++
+- last commit: 2021
+
 ### Progsbase
 
 - https://www.progsbase.com/
