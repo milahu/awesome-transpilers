@@ -154,6 +154,15 @@ can be used for all languages
 
 - program transformation systems https://en.wikipedia.org/wiki/List_of_program_transformation_systems
 
+### JetBrains MPS
+
+- https://github.com/JetBrains/MPS - 1.5K stars
+- https://www.jetbrains.com/mps/
+- metaprogramming language, Metaprogramming System
+- Create your own domain-specific language
+- written in: Java
+- license: APL2
+
 ### Facebook TransCoder
 
 https://github.com/facebookresearch/TransCoder - 1.5K stars
