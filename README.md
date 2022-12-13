@@ -152,6 +152,15 @@ compiles to: Rust
 - compiles from: Java, Kotlin
 - compiles to: JavaScript, C++, D, C#, PHP, AS3, Dart, Haxe
 
+### specs-feup/clava
+
+- https://github.com/specs-feup/clava - 50 stars
+- applies analysis and transformations written in LARA scripts (which is based on JavaScript)
+- based on: Clang
+- written in: Java
+- languages: C, C++, CUDA, OpenCL
+- last commit: 2022
+
 ### Ranger
 
 https://github.com/terotests/Ranger - 5 stars
