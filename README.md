@@ -263,6 +263,7 @@ can be used for all languages
 - A code rewrite tool for structural search and replace that supports about every language
 - written in: OCaml
 - languages: C, Java, Go, Swift, Rust, PHP, TypeScript, JavaScript, ...
+- features: refactoring
 
 ### JetBrains MPS
 
