@@ -133,6 +133,14 @@ compiles to: Rust
 - compiles to: JavaScript, Closure JavaScript
 - last commit: 2022
 
+### Pebaz/nimporter
+
+- https://github.com/Pebaz/nimporter - 700 stars
+- written in: Python
+- compiles from: Nim
+- compiles to: Python
+- last commit: 2022
+
 ### TypeScript2Cxx
 
 - https://github.com/ASDAlexander77/TypeScript2Cxx - 500 stars
