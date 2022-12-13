@@ -40,13 +40,13 @@
 
 ## Transpilers
 
-### ts2c
+### andrei-markeev/ts2c
 
-https://github.com/andrei-markeev/ts2c - 1K stars
-
-from: typescript, javascript
-
-to: C
+- https://github.com/andrei-markeev/ts2c - 1K stars
+- written in: C
+- compiles from: TypeScript, JavaScript
+- compiles to: C
+- last commit: 2022
 
 ### OneLang
 
