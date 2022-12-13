@@ -231,6 +231,17 @@ generic transpiler, can be trained to translate all languages
 - written in: Python
 - last commit: 2021
 
+### LangTrans
+
+- https://github.com/LangTrans/LangTrans - 20 stars
+- Customize programming languages
+- written in: Python
+- features: parse, transform
+- syntactic preprocessor
+- customize the syntax of any programming language
+- based on: regex
+- last commit: 2022
+
 ### codeworker
 
 - http://codeworker.free.fr/
