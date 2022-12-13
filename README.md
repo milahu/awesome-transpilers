@@ -119,6 +119,14 @@ compiles to: Rust
 - compiles to: C++
 - last commit: 2021
 
+### ts2nim
+
+- https://github.com/bung87/ts2nim - 50 stars
+- written in: TypeScript
+- compiles from: TypeScript
+- compiles to: Nim
+- last commit: 2021
+
 ### Progsbase
 
 - https://www.progsbase.com/
