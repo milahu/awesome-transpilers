@@ -101,6 +101,16 @@ compiles to: Rust
 - compiles from: Haxe
 - compiles to: AS2, AS3, C++, C#, Java, JS, Lua, Neko, PHP, Python	
 
+### Progsbase
+
+- https://www.progsbase.com/
+- closed source
+- Free Community Plan: convert TypeScript, Java, C, C++, JavaScript, C#, PHP, Python, Visual Basic, Swift, LibreOffice Basic, Ruby, Visual Basic
+- written in: Java, Progsbase
+- compiles from: Java
+- compiles to: Java, C, C++, JavaScript, C#, R, PHP, Python, Visual Basic
+- since: 2018
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
