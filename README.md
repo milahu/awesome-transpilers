@@ -2,18 +2,6 @@
 
 ## By Target Language
 
-### Multi Language
-
-* [py2many](https://github.com/adsharma/py2many) py2many can transpile a subset of python to
-  * C++
-  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) extension.
-  * Go
-  * Julia
-  * Kotlin
-  * Dart
-  * Nim
-  * [V](http://vlang.io)
-
 
 ### Golang
 
@@ -174,6 +162,16 @@ compiles to: Rust
 - written in: Python
 - compiles from: Python
 - compiles to: C
+- last commit: 2022
+
+### py2many
+
+- https://github.com/py2many/py2many - 500 stars
+- based on: https://github.com/PyO3/pyo3 - 7K stars, python to rust, Rust bindings for the Python interpreter
+- one to many
+- written in: Python
+- compiles from: Python
+- compiles to: C++, Rust, Julia, Kotlin, Nim, Dart, Go
 - last commit: 2022
 
 ### ts2nim
