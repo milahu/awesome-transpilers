@@ -101,6 +101,17 @@ compiles to: Rust
 - compiles from: Haxe
 - compiles to: AS2, AS3, C++, C#, Java, JS, Lua, Neko, PHP, Python	
 
+### jarble/transpiler
+
+- https://github.com/jarble/transpiler - 400 stars
+- translates a small subset of several programming languages into several others
+- translate several metasyntax notations, such as EBNF and ABNF
+- experimental "proof-of-concept," so it can only translate relatively simple programs
+- A major goal of this project is to translate TypeScript and JavaScript to other languages that compile to C or native code. For example, it's possible to translate a subset of TypeScript to Zig
+- written in: JavaScript
+- compiles from: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
+- compiles to: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
+
 ### Progsbase
 
 - https://www.progsbase.com/
