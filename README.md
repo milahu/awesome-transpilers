@@ -51,6 +51,14 @@ to: C++, Java, Python
 
 generic transpiler, can be trained to translate all languages
 
+## ts2c
+
+https://github.com/andrei-markeev/ts2c - 1K stars
+
+from: typescript, javascript
+
+to: C
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
