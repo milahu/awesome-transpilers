@@ -39,6 +39,18 @@
 * [GopherJS](https://github.com/gopherjs/gopherjs) A compiler from Go to JavaScript for running Go code in a browser.
 * [Dart2js](https://dart.dev/tools/dart2js) Use the dart2js tool to compile Dart code to deployable JavaScript.
 
+## Facebook TransCoder
+
+https://github.com/facebookresearch/TransCoder - 1.5K stars
+
+tags: ai, machine learning, generic
+
+from: C++, Java, Python
+
+to: C++, Java, Python
+
+generic transpiler, can be trained to translate all languages
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
