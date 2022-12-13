@@ -152,6 +152,15 @@ compiles to: Rust
 - compiles to: Python, JavaScript, Go, C#, C++, Ruby
 - last commit: 2021
 
+### LingDong-/wax
+
+- https://github.com/LingDong-/wax
+- A tiny programming language
+- written in: C
+- compiles from: Wax
+- compiles to: C, C++, Java, TypeScript, Python, C#, Swift, Lua, WebAssembly 
+- last commit: 2022
+
 ### TypeScript2Cxx
 
 - https://github.com/ASDAlexander77/TypeScript2Cxx - 500 stars
