@@ -117,6 +117,15 @@ compiles to: Rust
 - compiles to: Go
 - last commit: 2017
 
+### cincheo/jsweet
+
+- https://github.com/cincheo/jsweet - 1.3K stars
+- A Java to JavaScript transpiler
+- written in: Java
+- compiles from: Java
+- compiles to: JavaScript
+- last commit: 2022
+
 ### TypeScript2Cxx
 
 - https://github.com/ASDAlexander77/TypeScript2Cxx - 500 stars
