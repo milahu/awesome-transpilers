@@ -112,6 +112,16 @@ compiles to: Rust
 - compiles to: Java, C, C++, JavaScript, C#, R, PHP, Python, Visual Basic
 - since: 2018
 
+### Ranger
+
+https://github.com/terotests/Ranger - 5 stars
+
+- written in: JavaScript
+- self hosting
+- compiles from: Ranger?
+- compiles to: JavaScript, Java, Go, Swift, PHP, C++, C#, Scala
+- last commit: 2018
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
