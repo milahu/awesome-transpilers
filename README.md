@@ -127,6 +127,14 @@ compiles to: Rust
 - compiles to: Nim
 - last commit: 2021
 
+### seasnake
+
+- https://github.com/pybee/seasnake - 150 stars - archived
+- written in: Python
+- compiles from: C++
+- compiles to: Python
+- last commit: 2016
+
 ### Progsbase
 
 - https://www.progsbase.com/
