@@ -175,6 +175,12 @@ to: C++, Java, Python
 
 generic transpiler, can be trained to translate all languages
 
+### rose compiler
+
+- https://github.com/rose-compiler/rose - 500 stars
+- languages: C (C89 and C98), C++ (C++98 and C++11), UPC, Fortran (77/95/2003), OpenMP, Java, Python, PHP
+- use cases: static analysis, program optimization, program transformation
+
 ### jarble/transpiler
 
 - https://github.com/jarble/transpiler - 400 stars
