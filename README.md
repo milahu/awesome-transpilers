@@ -270,11 +270,13 @@ can be used for all languages
 ### Facebook TransCoder
 
 - https://github.com/facebookresearch/TransCoder - 1.5K stars
+- https://github.com/facebookresearch/CodeGen - 500 stars
+- based on: tree-sitter parsers
 - tags: ai, machine learning, generic, metaprogramming language, Metaprogramming System, transpiler framework
 - Create your own domain-specific language
 - generic transpiler, can be trained to translate all languages
 - written in: Python
-- license: APL2
+- license: MIT, Creative Commons Attribution-NonCommercial 4.0, Creative Commons Attribution-ShareAlike 2.0
 - languages: C++, Java, Python, ... any
 
 ### rose compiler
