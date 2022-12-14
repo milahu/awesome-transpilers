@@ -291,8 +291,7 @@ can be used for all languages
 - experimental "proof-of-concept," so it can only translate relatively simple programs
 - A major goal of this project is to translate TypeScript and JavaScript to other languages that compile to C or native code. For example, it's possible to translate a subset of TypeScript to Zig
 - written in: JavaScript
-- compiles from: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
-- compiles to: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
+- languages: JavaScript, Prolog, C, C#, PHP, Python, Lua, Perl, Haskell, Fortran, Java, OCaml, GLSL, ...
 
 ### Rascal
 
