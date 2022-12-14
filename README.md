@@ -199,6 +199,8 @@ compiles to: Rust
 
 ### Progsbase
 
+TODO what exactly is this? a transpiler service?
+
 - https://www.progsbase.com/
 - "Job Payments: You can create programming jobs using the progsbase client. Create payments here to reward developers who implement a solution to your job."
 - closed source
