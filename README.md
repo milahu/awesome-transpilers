@@ -269,15 +269,13 @@ can be used for all languages
 
 ### Facebook TransCoder
 
-https://github.com/facebookresearch/TransCoder - 1.5K stars
-
-tags: ai, machine learning, generic
-
-from: C++, Java, Python
-
-to: C++, Java, Python
-
-generic transpiler, can be trained to translate all languages
+- https://github.com/facebookresearch/TransCoder - 1.5K stars
+- tags: ai, machine learning, generic, metaprogramming language, Metaprogramming System, transpiler framework
+- Create your own domain-specific language
+- generic transpiler, can be trained to translate all languages
+- written in: Python
+- license: APL2
+- languages: C++, Java, Python, ... any
 
 ### rose compiler
 
