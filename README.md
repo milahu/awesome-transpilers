@@ -12,12 +12,6 @@
 
 * [VOC](https://github.com/beeware/voc) A transpiler that converts Python code into Java bytecode.
 
-
-### Rust
-
-* [C2Rust](https://github.com/immunant/c2rust) Migrate C code to Rust.
-
-
 ### JavaScript
 
 * [Shift.JS](https://github.com/shift-js/shift-js) Swift to JavaScript transpiler.
@@ -26,6 +20,14 @@
 * [Dart2js](https://dart.dev/tools/dart2js) Use the dart2js tool to compile Dart code to deployable JavaScript.
 
 ## Transpilers
+
+### c2rust
+
+- https://github.com/immunant/c2rust - 3K stars
+- Migrate C code to Rust
+- written in: Rust
+- compiles from: C, C++
+- compiles to: Rust
 
 ### andrei-markeev/ts2c
 
@@ -42,16 +44,6 @@
 - compiles from: TypeScript, C#, Ruby
 - compiles to: C++, C#, Go, Java, JS, Perl, PHP, Python, Ruby, Swift, TypeScript
 - last commit: 2021
-
-### c2rust
-
-https://github.com/immunant/c2rust - 3K stars
-
-written in: Rust
-
-compiles from: C, C++
-
-compiles to: Rust
 
 ### cheerp
 
