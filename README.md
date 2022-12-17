@@ -337,6 +337,13 @@ can be used for all languages
 - languages: C++, Java, COBOL, SQL, HTML, Verilog, ...
 - written in: PARLANSE = parallel language. As an example, the attribute evaluation process is automatically parallelized, and can often provide a linear speedup on an N-way SMP system.
 
+## Code generators
+
+- https://github.com/topics/code-generator
+- https://github.com/yellicode/core - build your own code generation templates with TypeScript
+  - https://github.com/yellicode/typescript-extension
+  - Model driven: Generate code from any JSON document, or create your code models using our free, cross-platform modeling tool, Yellicode Modeler. Extend models with language- or framework specific meta data and use Yellicode's type-safe APIs to transform your models into code.
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
