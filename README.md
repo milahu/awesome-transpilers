@@ -366,10 +366,11 @@ can be used for all languages
 
 ## Partial evaluators
 
-aka: partial evaluation, code optimizers, code optimization, dead code elimination, tree shaking
+aka: partial evaluation, code optimizers, code optimization, dead code elimination, tree shaking, code compression, code minification
 
 ### JavaScript
 
+- https://github.com/terser/terser - 8K stars - JavaScript parser, mangler and compressor toolkit for ES6+
 - https://github.com/google/closure-compiler - 7K stars - JavaScript checker and optimizer. written in Java
   - https://github.com/google/closure-compiler-npm/tree/master/packages/google-closure-compiler-js - javascript version of the google closure-compiler. deprecated. last commit 2020
 - https://github.com/facebookarchive/prepack - 15K stars - last commit 2021. archived. outdated. [does not work with javscript ESM modules](https://github.com/facebookarchive/prepack/issues/2629)
