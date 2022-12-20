@@ -371,6 +371,7 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 ### JavaScript
 
 - https://github.com/google/closure-compiler - 7K stars - JavaScript checker and optimizer. written in Java
+  - https://github.com/google/closure-compiler-npm/tree/master/packages/google-closure-compiler-js - javascript version of the google closure-compiler. deprecated. last commit 2020
 - https://github.com/facebookarchive/prepack - 15K stars - last commit 2021. archived. outdated. [does not work with javscript ESM modules](https://github.com/facebookarchive/prepack/issues/2629)
 - https://github.com/mindedsecurity/JStillery - 1K stars - last commit 2019 - JavaScript Deobfuscation via Partial Evaluation
 - https://github.com/SumeyyeSuslu/SPEjs - 5 stars - last commit 2018 - Symbolic Partial Evaluator for JavaScript. Sümeyye Süslü, Christoph Csallner, 2018
