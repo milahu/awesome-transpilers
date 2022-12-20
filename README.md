@@ -244,6 +244,26 @@ https://sourceforge.net/projects/cxx2cs/
 - compiles to: C#
 - last commit: 2015
 
+### J2CL
+
+https://github.com/google/j2cl - 1K stars
+
+- Java to Closure JavaScript transpiler
+- optimizes with Closure Compiler https://github.com/google/closure-compiler
+- compiles from: Java
+- compiles to: JavaScript
+- last commit: 2022
+- successor of: GWT
+
+### GWT
+
+- https://github.com/gwtproject/gwt - 1.5K stars
+- aka: Google Web Toolkit
+- written in: Java
+- compiles from: Java
+- compiles to: JavaScript
+- last commit: 2022
+
 ## Transpiler Frameworks
 
 can be used for all languages
