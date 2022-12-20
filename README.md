@@ -344,6 +344,27 @@ can be used for all languages
   - https://github.com/yellicode/typescript-extension
   - Model driven: Generate code from any JSON document, or create your code models using our free, cross-platform modeling tool, Yellicode Modeler. Extend models with language- or framework specific meta data and use Yellicode's type-safe APIs to transform your models into code.
 
+## Partial evaluators
+
+aka: partial evaluation, code optimizers, code optimization, dead code elimination, tree shaking
+
+### JavaScript
+
+- https://github.com/google/closure-compiler - 7K stars - JavaScript checker and optimizer. written in Java
+- https://github.com/mindedsecurity/JStillery - 1K stars - JavaScript Deobfuscation via Partial Evaluation
+- https://github.com/facebookarchive/prepack - 15K stars. archived. outdated. [does not work with javscript ESM modules](https://github.com/facebookarchive/prepack/issues/2629)
+- https://github.com/SumeyyeSuslu/SPEjs - 5 stars - Symbolic Partial Evaluator for JavaScript. Sümeyye Süslü, Christoph Csallner, 2018
+  - based on [Z3 SMT solver](https://github.com/Z3Prover/z3)
+  - paper https://ranger.uta.edu/~csallner/papers/S%C3%BCsl%C3%BC18SPEjs.pdf
+
+### SVG
+
+- https://github.com/svg/svgo - 20K stars - tool for optimizing SVG files. written in JavaScript
+
+### CSS
+
+- https://github.com/linkedin/opticss - 1K stars - A CSS Optimizer
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
