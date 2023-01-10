@@ -287,18 +287,6 @@ can be used for all languages
 - written in: Java
 - license: APL2
 
-### Facebook TransCoder
-
-- https://github.com/facebookresearch/TransCoder - 1.5K stars
-- https://github.com/facebookresearch/CodeGen - 500 stars
-- based on: tree-sitter parsers
-- tags: ai, machine learning, generic, metaprogramming language, Metaprogramming System, transpiler framework
-- Create your own domain-specific language
-- generic transpiler, can be trained to translate all languages
-- written in: Python
-- license: MIT, Creative Commons Attribution-NonCommercial 4.0, Creative Commons Attribution-ShareAlike 2.0
-- languages: C++, Java, Python, ... any
-
 ### rose compiler
 
 - https://github.com/rose-compiler/rose - 500 stars
@@ -387,6 +375,144 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 
 - https://github.com/linkedin/opticss - 1K stars - A CSS Optimizer
 
+## Machine Learning
+
+- https://www.altamira.ai/open-source-gpt-alternative-solutions/
+- https://www.ankursnewsletter.com/p/openais-gpt-3-vs-open-source-alternatives
+  - GPT-J and GPT-Neo are the most popular open source alternatives to GPT-3 today
+- GPT = Generative Pretrained Transformer
+- LLM = large language model
+- The Pile = 800 GB of English texts - https://pile.eleuther.ai/
+- The Stack = 6TB of source code, covering 358 programming languages
+  - https://huggingface.co/datasets/bigcode/the-stack
+  - rust: https://huggingface.co/mrm8488/bloom-560m-finetuned-the-stack-rust
+- HumanEval benchmark: https://github.com/openai/human-eval
+
+### TransCoder by Facebook
+
+- https://github.com/facebookresearch/TransCoder - 1.5K stars
+- https://github.com/facebookresearch/CodeGen - 500 stars
+- based on: tree-sitter parsers
+- tags: ai, machine learning, generic, metaprogramming language, Metaprogramming System, transpiler framework
+- Create your own domain-specific language
+- generic transpiler, can be trained to translate all languages
+- written in: Python
+- license: MIT, Creative Commons Attribution-NonCommercial 4.0, Creative Commons Attribution-ShareAlike 2.0
+- languages: C++, Java, Python, ... any
+
+### OPT by Facebook
+
+- https://github.com/facebookresearch/metaseq/tree/main/projects/OPT
+- blog post: https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/
+- license: open source (models, inference code, training code)
+- parameters: 175B
+
+### InCoder by Facebook
+
+- https://huggingface.co/facebook/incoder-6B
+- parameters: 6B
+
+### CodeGen by Salesforce
+
+- https://blog.salesforceairesearch.com/codegen/
+- parameters: 16B
+- trained on: The Pile, BigQuery (C, C++, Go, Java, JavaScript, Python)
+- architecture: autoregressive language models for program synthesis
+
+### CodeT5 by Salesforce
+
+- https://github.com/salesforce/CodeT5
+- architecture: encoder-decoder
+- parameters: 770M (?)
+- release: 2020-07-06
+
+### PolyCoder
+
+- https://github.com/VHellendoorn/Code-LMs
+- tags: ai, machine learning
+- paper https://arxiv.org/pdf/2202.13169.pdf
+- This model was not trained to solve programming problems and may not perform well on a benchmark such as [HumanEval](https://github.com/openai/human-eval).
+- Whitespace is very important to the model, since no preprocessing was done on the input files.
+- parameters: 2.7B
+- release: 2020-10
+- trained on: 12 programming languages (C, C#, C++, Go, Java, JavaScript, PHP, Python, Ruby, Rust, Scala, TypeScript)
+- architecture: GPT-2
+
+### GPT-3 by OpenAI
+
+- license: closed source (OINO = open in name only)
+- parameters: 175B
+- architecture: auto-regressive model for next token prediction
+- release: 2020-06-11
+- price: 0.06 USD / 1K tokens - https://openai.com/api/pricing/
+
+### CodeParrot
+
+- https://huggingface.co/codeparrot
+- CodeParrot is a GPT-2 model trained to generate Python code
+- parameters: 1.5B
+- architecture: GPT-2
+- Code generation with: CodeParrot (1.5B), InCoder (6B) and CodeGen (6B)
+- trained on: GitHub Code (32 programming languages), ...
+
+### GPT-Neo
+
+- trained on: The Pile
+- parameters: 2.7B
+
+### GPT-J by EleutherAI
+
+- live demo: https://6b.eleuther.ai/
+  - EleutherAI also developed a simple user interface for GPT-J. This interface allows users to increase the level of creativity of the model by using a parameter known as “temperature.”
+- model: https://github.com/kingoflolz/mesh-transformer-jax/#gpt-j-6b
+- license: open source (models, inference code, training code)
+- parameters: 6B
+- trained on: The Pile
+- autoregressive model for text generation
+
+### GPT-NeoX by EleutherAI
+
+- https://github.com/EleutherAI/gpt-neox/
+- parameters: 20B
+- release: 2022-02
+
+### AlexaTM by Amazon
+
+- https://github.com/amazon-science/alexa-teacher-models
+- encoder-decoder architecture
+- trained on: causal-language-modeling (CLM), denoising tasks
+- parameters: 20B
+- release: 2022-11-18
+
+### Codex
+
+- tags: ai, machine learning
+- license: closed source
+- free trial: 18 USD credit
+- parameters: 12B
+
+### Jurassic-1 language model by AI21 labs
+
+- https://www.ai21.com/studio
+- license: closed source
+- free trial: 90 USD credit
+
+### Megatron-Turing NLG by NVIDIA and Microsoft
+
+- https://developer.nvidia.com/megatron-turing-natural-language-generation
+- license: closed source
+- parameters: 530B
+
+### BLOOM
+
+- decoder-only architecture
+- https://huggingface.co/docs/transformers/model_doc/bloom
+- license: closed source
+- 13 programming languages
+- trained on: 46 natural languages, 13 programming languages
+- parameters: 176B
+- architecture: auto-regressive model for next token prediction (similar to GPT3)
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
@@ -407,3 +533,5 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 - https://devopedia.org/transpiler
 - https://aterik.github.io/Transpiler.and.similar.List/List/
 - https://github.com/milahu/awesome-component-converters - html components: react, svelte, solidjs, vue, angular, ...
+- https://cdn.intechopen.com/pdfs/14395/InTech-Automatic_generation_of_programs.pdf - Automatic Generation of Programs. by: Ondřej Popelka and Jiří Štastný
+- https://arxiv.org/pdf/2202.07612.pdf - CodeGen-Test: An Automatic Code Generation Model Integrating Program Test Information. by: ZHONG Maosheng, LIU Gen, LI Hongwei, KUANG Jiangling, ZENG Jinshan, WANG Mingwen
