@@ -158,12 +158,19 @@
 ### py2many
 
 - https://github.com/py2many/py2many - 500 stars
-- based on: https://github.com/PyO3/pyo3 - 7K stars, python to rust, Rust bindings for the Python interpreter
+- based on: https://github.com/konchunas/pyrs - 400 stars, Python to Rust transpiler
 - one to many
 - written in: Python
 - compiles from: Python
 - compiles to: Rust, C++, (Julia, Kotlin, Nim, Dart, Go)
 - last commit: 2022
+
+### pyo3
+
+- https://github.com/PyO3/pyo3 - 7K stars
+- Rust bindings for the Python interpreter
+- no transpiler
+- use cases: write native Python modules in Rust, embed Python in a Rust binary
 
 ### ts2nim
 
