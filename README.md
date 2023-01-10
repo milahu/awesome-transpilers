@@ -162,7 +162,7 @@
 - one to many
 - written in: Python
 - compiles from: Python
-- compiles to: C++, Rust, Julia, Kotlin, Nim, Dart, Go
+- compiles to: Rust, C++, (Julia, Kotlin, Nim, Dart, Go)
 - last commit: 2022
 
 ### ts2nim
