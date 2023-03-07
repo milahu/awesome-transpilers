@@ -161,7 +161,7 @@
 - https://github.com/ovr/StaticScript - 600 stars
 - compiles from: TypeScript
 - compiles to: LLVMIR (more compiler than transpiler)
-- last commit: 2022
+- last commit: 2020
 
 ### prometeo
 
