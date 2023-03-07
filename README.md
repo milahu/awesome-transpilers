@@ -163,6 +163,13 @@
 - compiles to: LLVMIR (more compiler than transpiler)
 - last commit: 2020
 
+### ts-llvm
+
+- https://github.com/emlai/ts-llvm - 300 stars
+- compiles from: TypeScript
+- compiles to: LLVMIR (more compiler than transpiler)
+- last commit: 2019
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
