@@ -212,6 +212,13 @@
 - compiles to: C++
 - last commit: 2018
 
+### duncanhorn/ts2cpp
+
+- https://github.com/duncanhorn/ts2cpp - 5 stars
+- compiles from: TypeScript interface definitions (\*.d.ts)
+- compiles to: C++
+- last commit: 2019
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
