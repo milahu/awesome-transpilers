@@ -549,3 +549,4 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 - https://github.com/milahu/awesome-component-converters - html components: react, svelte, solidjs, vue, angular, ...
 - https://cdn.intechopen.com/pdfs/14395/InTech-Automatic_generation_of_programs.pdf - Automatic Generation of Programs. by: Ondřej Popelka and Jiří Štastný
 - https://arxiv.org/pdf/2202.07612.pdf - CodeGen-Test: An Automatic Code Generation Model Integrating Program Test Information. by: ZHONG Maosheng, LIU Gen, LI Hongwei, KUANG Jiangling, ZENG Jinshan, WANG Mingwen
+- https://www.assemblyscript.org/ - similar to TypeScript (JavaScript), compiles to WebAsssembly, alternative to JS2C/TS2C transpilers
