@@ -144,6 +144,7 @@
 ### TypeScript2Cxx
 
 - https://github.com/ASDAlexander77/TypeScript2Cxx - 500 stars
+- https://news.ycombinator.com/item?id=22746170
 - compiles from: TypeScript
 - compiles to: C++
 - last commit: 2021
