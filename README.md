@@ -147,6 +147,13 @@
 - compiles to: C++
 - last commit: 2021
 
+### jsxx
+
+- https://github.com/surma/jsxx - 150 stars
+- compiles from: JavaScript
+- compiles to: C++
+- last commit: 2022
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
