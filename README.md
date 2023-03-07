@@ -184,6 +184,13 @@
 - compiles to: WebAssembly (more compiler than transpiler)
 - last commit: 2017
 
+### sebbekarlsson/typescript
+
+- https://github.com/sebbekarlsson/typescript - 15 stars
+- compiles from: TypeScript
+- compiles to: C
+- last commit: 2019
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
