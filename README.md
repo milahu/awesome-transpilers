@@ -32,6 +32,7 @@
 ### andrei-markeev/ts2c
 
 - https://github.com/andrei-markeev/ts2c - 1K stars
+- [live demo](https://andrei-markeev.github.io/ts2c/)
 - written in: C
 - compiles from: TypeScript, JavaScript
 - compiles to: C
