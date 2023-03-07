@@ -191,6 +191,13 @@
 - compiles to: C
 - last commit: 2019
 
+### sebbekarlsson/tscc
+
+- https://github.com/sebbekarlsson/tscc - 15 stars
+- compiles from: TypeScript
+- compiles to: C
+- last commit: 2019
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
