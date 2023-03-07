@@ -170,6 +170,13 @@
 - compiles to: LLVMIR (more compiler than transpiler)
 - last commit: 2019
 
+### muta-minits
+
+- https://github.com/nervosnetwork/muta-minits - 150 stars
+- compiles from: TypeScript
+- compiles to: LLVMIR (more compiler than transpiler)
+- last commit: 2019
+
 ### speedy.js
 
 - https://github.com/MichaReiser/speedy.js - 350 stars
