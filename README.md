@@ -205,6 +205,13 @@
 - compiles to: C
 - last commit: 2018
 
+### yakir22/ts2cpp
+
+- https://github.com/yakir22/ts2cpp - 10 stars
+- compiles from: TypeScript
+- compiles to: C++
+- last commit: 2018
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
