@@ -156,6 +156,13 @@
 - compiles to: C++
 - last commit: 2022
 
+### StaticScript
+
+- https://github.com/ovr/StaticScript - 600 stars
+- compiles from: TypeScript
+- compiles to: LLVMIR (more compiler than transpiler)
+- last commit: 2022
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
