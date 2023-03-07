@@ -198,6 +198,13 @@
 - compiles to: C
 - last commit: 2019
 
+### andrejusk/typescript-compiler
+
+- https://github.com/andrejusk/typescript-compiler - 15 stars
+- compiles from: TypeScript
+- compiles to: C
+- last commit: 2018
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
