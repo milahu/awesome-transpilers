@@ -170,6 +170,13 @@
 - compiles to: LLVMIR (more compiler than transpiler)
 - last commit: 2019
 
+### speedy.js
+
+- https://github.com/MichaReiser/speedy.js - 350 stars
+- compiles from: JavaScript
+- compiles to: WebAssembly (more compiler than transpiler)
+- last commit: 2017
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
