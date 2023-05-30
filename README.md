@@ -21,6 +21,13 @@
 
 ## Transpilers
 
+### Nim
+
+- https://github.com/nim-lang/Nim - 15K stars
+- https://nim-lang.org/
+- compiles from: Nim
+- compiles to: C, C++, JavaScript
+
 ### c2rust
 
 - https://github.com/immunant/c2rust - 3K stars
