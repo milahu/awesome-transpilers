@@ -29,6 +29,14 @@
 - compiles from: Nim
 - compiles to: C, C++, JavaScript
 
+### ClojureScript
+
+- https://github.com/clojure/clojurescript - 9K stars
+- https://clojurescript.org/
+- written in: Clojure
+- compiles from: Clojure
+- compiles to: JavaScript
+
 ### c2rust
 
 - https://github.com/immunant/c2rust - 3K stars
