@@ -25,6 +25,7 @@
 
 - https://github.com/nim-lang/Nim - 15K stars
 - https://nim-lang.org/
+- written in: Nim (self-hosted)
 - compiles from: Nim
 - compiles to: C, C++, JavaScript
 
