@@ -264,6 +264,14 @@
 - compiles to: C++
 - last commit: 2019
 
+### tython
+
+- https://github.com/NCPlayz/tython - 5 stars
+- written in: Python
+- compiles from: TypeScript
+- compiles to: Python
+- last commit: 2020
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
