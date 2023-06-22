@@ -264,6 +264,16 @@
 - compiles to: C++
 - last commit: 2019
 
+### quadramadery/js2py
+
+- https://github.com/quadramadery/js2py - 10 stars
+- written in: JavaScript
+- based on: espree-parser
+- compiles from: JavaScript
+- compiles to: Python
+- last commit: 2019
+- status: early draft
+
 ### tython
 
 - https://github.com/NCPlayz/tython - 5 stars
