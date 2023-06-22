@@ -203,6 +203,25 @@
 - compiles to: LLVMIR (more compiler than transpiler)
 - last commit: 2019
 
+### transpyle
+
+- https://github.com/mbdevpl/transpyle - 100 stars
+- https://pypi.org/project/transpyle/
+- written in: Python
+- compiles:
+   - [C to Python AST](https://pypi.org/project/transpyle/#c-to-python-ast)
+   - [Python AST to C](https://pypi.org/project/transpyle/#python-ast-to-c)
+   - [C++ to Python AST](https://pypi.org/project/transpyle/#c-to-python-ast-1)
+   - [Python AST to C++](https://pypi.org/project/transpyle/#python-ast-to-c-1)
+   - [Cython to Python AST](https://pypi.org/project/transpyle/#cython-to-python-ast)
+   - [Python AST to Cython](https://pypi.org/project/transpyle/#python-ast-to-cython)
+   - [Fortran to Python AST](https://pypi.org/project/transpyle/#fortran-to-python-ast)
+   - [Python AST to Fortran](https://pypi.org/project/transpyle/#python-ast-to-fortran)
+   - [OpenCL to Python AST](https://pypi.org/project/transpyle/#opencl-to-python-ast)
+   - [Python AST to OpenCL](https://pypi.org/project/transpyle/#python-ast-to-opencl)
+   - [Python to Python AST](https://pypi.org/project/transpyle/#python-to-python-ast)
+   - [Python AST to Python](https://pypi.org/project/transpyle/#python-ast-to-python)
+
 ### speedy.js
 
 - https://github.com/MichaReiser/speedy.js - 350 stars
