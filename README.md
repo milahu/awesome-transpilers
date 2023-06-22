@@ -284,6 +284,16 @@
 - last commit: 2020
 - status: early draft
 
+### 7HR4IZ3/es62py
+
+- https://github.com/7HR4IZ3/es62py - 0 stars
+- written in: Python
+- based on: esprima-parser, js2py library
+- compiles from: JavaScript (ECMA 6)
+- compiles to: Python
+- last commit: 2023
+- status: early draft
+
 ### prometeo
 
 - https://github.com/zanellia/prometeo - 500 stars
