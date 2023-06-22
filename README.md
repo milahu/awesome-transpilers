@@ -525,6 +525,7 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 ### TransCoder by Facebook
 
 - https://github.com/facebookresearch/TransCoder - 1.5K stars
+   - deprecated in favor of CodeGen
 - https://github.com/facebookresearch/CodeGen - 500 stars
 - based on: tree-sitter parsers
 - tags: ai, machine learning, generic, metaprogramming language, Metaprogramming System, transpiler framework
