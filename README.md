@@ -89,6 +89,16 @@
 - compiles to: JavaScript
 - last commit: 2022
 
+### Js2Py
+
+- https://github.com/PiotrDabkowski/Js2Py - 2K stars
+- https://pypi.org/project/Js2Py/
+- written in: Python
+- compiles from: JavaScript
+- compiles to: Python
+- last commit: 2022
+- functions: `js2py.translate_js`, `js2py.translate_file`
+
 ### Cito
 
 - https://github.com/pfusik/cito - 1.5K stars
