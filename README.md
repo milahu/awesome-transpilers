@@ -618,6 +618,47 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 - parameters: 176B
 - architecture: auto-regressive model for next token prediction (similar to GPT3)
 
+## Online Transpilers
+
+### javainuse.com
+
+- [Online Tool To Convert XML To JSON And JSON To XML](https://www.javainuse.com/xmljson)
+- [Online JSON to Java POJO Class Converter](https://www.javainuse.com/pojo)
+- [JSON to NDJSON Online Converter Tool](https://www.javainuse.com/ndjson)
+- [JSON to YAML Converter Tool](https://www.javainuse.com/jsontoyaml)
+- [YAML to JSON Converter Tool](https://www.javainuse.com/yamltojson)
+- [YAML to POJO Converter Tool](https://www.javainuse.com/yamltopojo)
+- [XML to POJO Converter Tool](https://www.javainuse.com/xmltopojo)
+- [Online Bash Shell Scripts to Windows Batch Files Converter Tool](https://www.javainuse.com/bash)
+- [Online JSON to Typescript Converter Tool](https://www.javainuse.com/json2type)
+- [Online tool to convert Properties File to YAML format](https://www.javainuse.com/app2yaml)
+- [Online tool to convert Kubernetes YAML to Terraform HCL format](https://www.javainuse.com/yaml2tcf)
+- [Online tool to convert SQL to Mongo format](https://www.javainuse.com/sql2mongo)
+- [Online tool to convert JSON to Kotlin format](https://www.javainuse.com/json2kot)
+- [Online tool to convert JavaScript to Python format](https://www.javainuse.com/js2py)
+- [Online tool to convert Python to JavaScript format](https://www.javainuse.com/py2js)
+- [Online tool to convert Python to C++ format](https://www.javainuse.com/py2cpp)
+- [Online tool to convert Java to Python format](https://www.javainuse.com/java2py)
+- [Online tool to convert Javascript to Typescript format](https://www.javainuse.com/js2ts)
+- [Online tool to convert Java to Javascript format](https://www.javainuse.com/java2js)
+- [Online tool to convert Java to Golang format](https://www.javainuse.com/java2go)
+- [Online tool to convert Kotlin to Java format](https://www.javainuse.com/kot2java)
+- [Online tool to convert Java to Kotlin format](https://www.javainuse.com/java2kot)
+- [Online tool to convert Java to C# format](https://www.javainuse.com/java2csharp)
+- [Online Tool to Convert Java to C++](https://www.javainuse.com/java2cpp)
+- [Online Tool to Convert C Code to Python](https://www.javainuse.com/c2py)
+- [Online Tool to Convert C Code to C++](https://www.javainuse.com/c2cpp)
+- [Online Tool to Convert Python Code to R](https://www.javainuse.com/py2r)
+- [Online Tool to Convert JavaScript Code to JQuery](https://www.javainuse.com/js2jq)
+- [Online Tool to Convert Scala Code to Java](https://www.javainuse.com/sc2ja)
+- [Online Tool to Convert Java Code to Scala](https://www.javainuse.com/ja2sc)
+- [Online Tool to Convert C# Code to Java](https://www.javainuse.com/csharp2java)
+- [Online Tool to Convert PHP Code to Python](https://www.javainuse.com/php2py)
+- [Online Tool to Convert C# Code to Python](https://www.javainuse.com/csharp2py)
+- [Online Tool to Convert C++ Code to Java](https://www.javainuse.com/cpp2java)
+- [Online Tool to Convert Python Code to Java](https://www.javainuse.com/py2java)
+- [Online Tool to Convert Python Code to CSharp](https://www.javainuse.com/py2csharp)
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
