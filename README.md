@@ -94,7 +94,7 @@
 - https://github.com/PiotrDabkowski/Js2Py - 2K stars
 - https://pypi.org/project/Js2Py/
 - written in: Python
-- compiles from: JavaScript
+- compiles from: JavaScript (ECMAScript 5.1)
 - compiles to: Python
 - last commit: 2022
 - functions: `js2py.translate_js`, `js2py.translate_file`
