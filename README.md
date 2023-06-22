@@ -268,9 +268,11 @@
 
 - https://github.com/NCPlayz/tython - 5 stars
 - written in: Python
+- based on: lark-parser
 - compiles from: TypeScript
 - compiles to: Python
 - last commit: 2020
+- status: early draft
 
 ### prometeo
 
