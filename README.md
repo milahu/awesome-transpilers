@@ -384,6 +384,15 @@
 - compiles to: Python
 - last commit: 2022
 
+### Kotlift
+
+- https://github.com/studoverse/Kotlift - 400 stars, archived
+- deprecated in favor of [Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/)
+- written in: Kotlin, Swift
+- compiles from: Kotlin
+- compiles to: Swift
+- last commit: 2023
+
 ### andreikop/cpp2python
 
 - https://github.com/andreikop/cpp2python - 150 stars
