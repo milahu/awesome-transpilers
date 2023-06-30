@@ -846,4 +846,4 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 - https://github.com/dbohdan/compilers-targeting-c
 - https://medium.com/@ZombieCodeKill/the-a-z-of-javascript-transpilers-2d3d556fa627 - The A-Z of JavaScript Transpilers
 - https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS - List of languages that compile to JavaScript
-
+- https://github.com/milahu/awesome-bidirectional-transforms - bidirectional transpilers, lenses
