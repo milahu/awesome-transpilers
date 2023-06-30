@@ -327,6 +327,14 @@
 - compiles to: Nim
 - last commit: 2021
 
+### clojurec
+
+- https://github.com/schani/clojurec - 1K stars
+- written in: Clojure
+- compiles from: Clojure
+- compiles to: C
+- last commit: 2018
+
 ### hissp
 
 - https://github.com/gilch/hissp - 300 stars
