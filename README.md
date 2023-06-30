@@ -417,6 +417,17 @@
 - compiles to: Rust, C++, Java, ...
 - last commit: 2023
 
+### Cerberus X Trans
+
+- https://www.cerberus-x.com/cxDocs/Tools_Trans.html
+- https://github.com/cerberusxdev/cerberus - 200 stars
+- https://github.com/cerberusxdev/cerberus/tree/develop/src/transcc/builders
+- game development language with multiple target platforms (desktop, mobile, web)
+- written in: C, Cerberus X
+- compiles from: Cerberus X
+- compiles to: C++, Objective-C, C#, Java, HTML
+- last commit: 2023
+
 ### roman01la/javascript-to-clojurescript
 
 - https://github.com/roman01la/javascript-to-clojurescript - 100 stars
