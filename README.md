@@ -263,6 +263,13 @@
 - compiles to: WebAssembly (more compiler than transpiler)
 - last commit: 2017
 
+### futurGH/ts-to-jsdoc
+
+- https://github.com/futurGH/ts-to-jsdoc - 60 stars
+- compiles from: TypeScript
+- compiles to: JavaScript (with JSDoc type annotations)
+- last commit: 2023
+
 ### sebbekarlsson/typescript
 
 - https://github.com/sebbekarlsson/typescript - 15 stars
