@@ -345,6 +345,16 @@
 - compiles to: Python
 - last commit: 2023
 
+### kalai
+
+- https://github.com/kalai-transpiler/kalai - 200 stars
+- via: https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/
+   - via: https://www.reddit.com/r/Clojure/comments/qwchlm/why_clojure_lisp_is_good_for_writing_transpilers/
+- written in: Clojure
+- compiles from: Clojure
+- compiles to: Rust, C++, Java, ...
+- last commit: 2023
+
 ### roman01la/javascript-to-clojurescript
 
 - https://github.com/roman01la/javascript-to-clojurescript - 100 stars
