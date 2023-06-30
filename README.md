@@ -330,6 +330,7 @@
 ### clojurec
 
 - https://github.com/schani/clojurec - 1K stars
+- based on: [ClojureScript 0e0aa7f](https://github.com/clojure/clojurescript/tree/0e0aa7fdd379649bf87f8fff5c6a64e37fe616a4)
 - written in: Clojure
 - compiles from: Clojure
 - compiles to: C
