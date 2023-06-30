@@ -99,6 +99,18 @@
 - last commit: 2022
 - functions: `js2py.translate_js`, `js2py.translate_file`
 
+### Fennel
+
+- https://github.com/bakpakin/Fennel - 2K stars
+- https://fennel-lang.org/
+- docs:
+   - https://technomancy.us/192 - self-hosting, bootstrapping
+      - via: https://www.reddit.com/r/Clojure/comments/qwchlm/comment/hl4raup/
+- written in: Lua, Fennel (Lisp)
+- compiles from: Fennel (Lisp)
+- compiles to: Lua
+- last commit: 2023
+
 ### Cito
 
 - https://github.com/pfusik/cito - 1.5K stars
