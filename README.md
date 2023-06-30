@@ -345,6 +345,14 @@
 - compiles to: Python
 - last commit: 2023
 
+### roman01la/javascript-to-clojurescript
+
+- https://github.com/roman01la/javascript-to-clojurescript - 100 stars
+- written in: JavaScript
+- compiles from: JavaScript
+- compiles to: ClojureScript, Clojure
+- last commit: 2023
+
 ### basilisp
 
 - https://github.com/basilisp-lang/basilisp - 50 stars
