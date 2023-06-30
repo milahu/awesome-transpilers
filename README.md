@@ -21,6 +21,15 @@
 
 ## Transpilers
 
+### Babel
+
+- https://github.com/babel/babel - 40K stars
+- compile new versions of JavaScript (ES2020) to old versions of JavaScript (ES2015)
+- written in: TypeScript, JavaScript
+- compiles from: JavaScript
+- compiles to: JavaScript
+- last commit: 2023
+
 ### Nim
 
 - https://github.com/nim-lang/Nim - 15K stars
