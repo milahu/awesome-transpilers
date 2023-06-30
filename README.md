@@ -60,6 +60,16 @@
 - compiles from: Clojure
 - compiles to: JavaScript
 
+### jscodeshift
+
+- https://github.com/facebook/jscodeshift - 8K stars
+- toolkit for running codemods over multiple JavaScript or TypeScript files
+- codemods = refactoring
+- written in: JavaScript
+- compiles from: JavaScript
+- compiles to: JavaScript
+- last commit: 2023
+
 ### c2rust
 
 - https://github.com/immunant/c2rust - 3K stars
