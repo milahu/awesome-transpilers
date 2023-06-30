@@ -220,6 +220,16 @@
 - compiles to: C++
 - last commit: 2021
 
+### putout
+
+- https://github.com/coderaiser/putout - 500 stars
+- live demo: https://putout.cloudcmd.io/
+- codemods = refactoring
+- written in: JavaScript
+- compiles from: JavaScript
+- compiles to: JavaScript
+- last commit: 2023
+
 ### jsxx
 
 - https://github.com/surma/jsxx - 150 stars
