@@ -475,6 +475,19 @@ https://github.com/google/j2cl - 1K stars
 - compiles to: JavaScript
 - last commit: 2022
 
+### SequalsK
+
+- paper: SequalsK—A Bidirectional Swift-Kotlin-Transpiler (2021)
+   - https://dijkstra.iem.thm.de/Schultes-SequalsK-Preprint.pdf
+   - https://ieeexplore.ieee.org/document/9460946 (paywall)
+- paper: Evaluating swift-to-kotlin and kotlin-to-swift transpilers (2022)
+   - https://dl.acm.org/doi/10.1145/3524613.3527811 (paywall)
+- live demo: https://transpile.iem.thm.de/ (broken)
+- talk: https://www.youtube.com/watch?v=eHUCWAf9aHI
+- closed source
+- bidirectional transpiler
+- languages: Swift, Kotlin
+
 ## Transpiler Frameworks
 
 can be used for all languages
