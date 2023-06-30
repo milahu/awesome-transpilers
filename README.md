@@ -26,7 +26,7 @@
 - https://github.com/microsoft/TypeScript - 90K stars
 - https://www.typescriptlang.org/
 - criticism: https://gist.github.com/amcdnl/b52e9dd11850eeb8de8f#file-hate-typescript-md
-- alternative: jsdoc type annotations
+- alternative: JavaScript with jsdoc type annotations
    - https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html
    - https://github.com/futurGH/ts-to-jsdoc
 - written in: TypeScript
