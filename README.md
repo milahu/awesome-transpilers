@@ -824,3 +824,5 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 - https://softwareengineering.stackexchange.com/questions/143722/is-there-a-language-that-transpiles-to-c-with-better-syntax
 - https://github.com/dbohdan/compilers-targeting-c
 - https://medium.com/@ZombieCodeKill/the-a-z-of-javascript-transpilers-2d3d556fa627 - The A-Z of JavaScript Transpilers
+- https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS - List of languages that compile to JavaScript
+
