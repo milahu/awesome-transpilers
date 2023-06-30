@@ -25,6 +25,7 @@
 
 - https://github.com/microsoft/TypeScript - 90K stars
 - https://www.typescriptlang.org/
+- https://github.com/kidonng/typescript - A tiny redistribution of TypeScript (10x smaller, 4MB versus 40MB)
 - criticism: https://gist.github.com/amcdnl/b52e9dd11850eeb8de8f#file-hate-typescript-md
 - alternative: JavaScript with jsdoc type annotations
    - https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html
