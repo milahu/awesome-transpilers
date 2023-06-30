@@ -378,7 +378,7 @@
 ### basilisp
 
 - https://github.com/basilisp-lang/basilisp - 50 stars
-- https://www.reddit.com/r/Clojure/comments/toyzq2/comment/i281k15/?utm_source=reddit&utm_medium=web2x&context=3
+- https://www.reddit.com/r/Clojure/comments/toyzq2/comment/i281k15/
 - written in: Python, Clojure
 - compiles from: Clojure, Lisp
 - compiles to: Python
