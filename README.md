@@ -327,6 +327,15 @@
 - compiles to: Nim
 - last commit: 2021
 
+### hissp
+
+- https://github.com/gilch/hissp - 300 stars
+- https://www.reddit.com/r/Clojure/comments/toyzq2/comment/i280x1f/
+- written in: Python
+- compiles from: Lisp
+- compiles to: Python
+- last commit: 2023
+
 ### basilisp
 
 - https://github.com/basilisp-lang/basilisp - 50 stars
