@@ -558,6 +558,17 @@ https://github.com/google/j2cl - 1K stars
 - bidirectional transpiler
 - languages: Swift, Kotlin
 
+### python scripts to python modules
+
+- status: concept, project idea
+- written in: Python
+- compiles from: Python scripts
+- compiles to: Python modules
+- simlar to: [2to3](https://docs.python.org/3/library/2to3.html) in Python 3.11
+- [Python Setuptools: quick way to add scripts without "main" function as "console_scripts" entry points](https://stackoverflow.com/questions/59591969/python-setuptools-quick-way-to-add-scripts-without-main-function-as-console)
+- [Convert python script in module](https://stackoverflow.com/questions/63917528/convert-python-script-in-module)
+- [chromium-depot-tools.nix](https://github.com/milahu/nur-packages/blob/master/pkgs/build-support/chromium-depot-tools/chromium-depot-tools.nix)
+
 ## Transpiler Frameworks
 
 can be used for all languages
