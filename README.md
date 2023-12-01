@@ -569,6 +569,16 @@ https://github.com/google/j2cl - 1K stars
 - [Convert python script in module](https://stackoverflow.com/questions/63917528/convert-python-script-in-module)
 - [chromium-depot-tools.nix](https://github.com/milahu/nur-packages/blob/master/pkgs/build-support/chromium-depot-tools/chromium-depot-tools.nix)
 
+### lezer-parser-import-tree-sitter-scanner
+
+- https://github.com/milahu/lezer-parser-import-tree-sitter-scanner
+- Helps import tree-sitter grammars and scanners.
+- A grammar transpiler, and a domain-specific C++ to JavaScript transpiler.
+- Import ANTLR grammars to lezer-parser
+- written in: JavaScript
+- compiles from: C++, tree-sitter grammars, ANTLR grammars
+- compiles to: JavaScript, lezer-parser grammars
+
 ## Transpiler Frameworks
 
 can be used for all languages
