@@ -230,6 +230,16 @@
 - compiles to: JavaScript
 - last commit: 2023
 
+### webcrack
+
+- https://github.com/j4k0xb/webcrack - 400 stars
+- live demo: https://webcrack.netlify.app/
+- deobfuscator, decompiler, reverse engineering
+- with ESM support: import, export, ...
+- compiles from: JavaScript
+- compiles to: JavaScript
+- last commit: 2024
+
 ### jsxx
 
 - https://github.com/surma/jsxx - 150 stars
