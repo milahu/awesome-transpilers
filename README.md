@@ -278,6 +278,18 @@
 - compiles to: C++
 - last commit: 2022
 
+### ben-sb/obfuscator-io-deobfuscator
+
+- https://github.com/ben-sb/obfuscator-io-deobfuscator - 150 stars
+- deobfuscator for scripts obfuscated by obfuscator.io
+- live demo: https://obf-io.deobfuscate.io/
+- deobfuscator, decompiler, reverse engineering
+- with ESM support: import, export, ...
+- written in: TypeScript
+- compiles from: JavaScript
+- compiles to: JavaScript
+- last commit: 2024
+
 ### StaticScript
 
 - https://github.com/ovr/StaticScript - 600 stars
