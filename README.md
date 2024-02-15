@@ -919,3 +919,5 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 - https://medium.com/@ZombieCodeKill/the-a-z-of-javascript-transpilers-2d3d556fa627 - The A-Z of JavaScript Transpilers
 - https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS - List of languages that compile to JavaScript
 - https://github.com/milahu/awesome-bidirectional-transforms - bidirectional transpilers, lenses
+- https://gist.github.com/0xdevalias/d8b743efb82c0e9406fc69da0d6c6581 - Some notes and tools for reverse engineering / deobfuscating / unminifying obfuscated web app code
+  - keywords: reverse engineering javascript web apps
