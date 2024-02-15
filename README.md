@@ -240,6 +240,16 @@
 - compiles to: JavaScript
 - last commit: 2024
 
+### wakaru
+
+- https://github.com/pionxzh/wakaru - 100 stars
+- live demo: https://wakaru.vercel.app/
+- deobfuscator, decompiler, reverse engineering
+- with ESM support: import, export, ...
+- compiles from: JavaScript
+- compiles to: JavaScript
+- last commit: 2024
+
 ### jsxx
 
 - https://github.com/surma/jsxx - 150 stars
