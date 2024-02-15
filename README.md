@@ -80,6 +80,17 @@
 - compiles to: JavaScript
 - last commit: 2023
 
+### ast-grep
+
+- https://github.com/ast-grep/ast-grep - 5K stars
+- CLI tool for code structural search, lint and rewriting
+- "grep for code"
+- "grep for AST nodes"
+- based on tree-sitter parsers
+- written in: Rust
+- compiles from: all languages
+- compiles to: all languages
+
 ### c2rust
 
 - https://github.com/immunant/c2rust - 3K stars
