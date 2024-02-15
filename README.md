@@ -44,6 +44,16 @@
 - compiles to: JavaScript
 - last commit: 2023
 
+### eslint
+
+- https://github.com/eslint/eslint - 24K stars
+- live demo: https://eslint.org/play/
+- website: https://eslint.org/
+- javascript codemods
+- written in: JavaScript
+- compiles from: JavaScript
+- compiles to: JavaScript
+
 ### Nim
 
 - https://github.com/nim-lang/Nim - 15K stars
