@@ -763,6 +763,8 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 - requires login
 - limitation: can translate up to 30K ... 50K characters of code, so large inputs must be splitted into smaller chunks
 - start the chat with: can you translate from some_input_language to some_output_language?
+- by default, chatGPT will also transform symbol names, for example from camelCase in javascript to snake_case in python
+  - fix: start the chat with: can you translate from some_input_language to some_output_language and preserve the original symbol names?
 - on large inputs, chatGPT will return an interpretation of what the code is doing
   - answer: yes. can you translate the code to some_output_language?
   - the output will pause, then click: continue generating
