@@ -756,6 +756,21 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
   - rust: https://huggingface.co/mrm8488/bloom-560m-finetuned-the-stack-rust
 - HumanEval benchmark: https://github.com/openai/human-eval
 
+### ChatGPT by OpenAI
+
+- https://chat.openai.com/
+- works online
+- requires login
+- limitation: can translate up to 30K ... 50K characters of code, so large inputs must be splitted into smaller chunks
+- start the chat with: can you translate from some_input_language to some_output_language?
+- on large inputs, chatGPT will return an interpretation of what the code is doing
+  - answer: yes. can you translate the code to some_output_language?
+  - the output will pause, then click: continue generating
+- languages: many
+- based on [Codex](#codex)
+  - what language model is used by chatgpt to translate between programming languages?
+    - As of my last update in January 2022, ChatGPT does not directly translate between programming languages. However, **OpenAI has developed models capable of code generation and understanding code in various programming languages, such as Codex, which powers GitHub Copilot.** These models are trained on large datasets of code and natural language to understand and generate code snippets based on human-written descriptions or code prompts. While ChatGPT itself may not directly perform programming language translation, it can be used in conjunction with such code generation models to facilitate communication or provide assistance in programming-related tasks.
+
 ### TransCoder by Facebook
 
 - https://github.com/facebookresearch/TransCoder - 1.5K stars
