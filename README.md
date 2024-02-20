@@ -761,7 +761,7 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 - https://chat.openai.com/
 - works online
 - requires login
-- limitation: can translate up to 30K ... 50K characters of code, so large inputs must be splitted into smaller chunks
+- limitation: can translate up to 31523 characters of code = about 30 KByte, so large inputs must be splitted into smaller chunks
 - start the chat with: can you translate from some_input_language to some_output_language?
 - by default, chatGPT will also transform symbol names, for example from camelCase in javascript to snake_case in python
   - fix: start the chat with: can you translate from some_input_language to some_output_language and preserve the original symbol names?
