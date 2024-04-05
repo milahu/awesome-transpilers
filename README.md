@@ -344,6 +344,19 @@
 - compiles to: JavaScript (with JSDoc type annotations)
 - last commit: 2023
 
+
+
+### ccxt/ast-transpiler
+
+- https://github.com/ccxt/ast-transpiler - 20 stars
+- AST Transpiler that converts Typescript into different languages (PHP, Python, C# (wip))
+- written in: TypeScript
+- compiles from: TypeScript
+- compiles to: PHP, Python
+- last commit: 2024
+
+
+
 ### sebbekarlsson/typescript
 
 - https://github.com/sebbekarlsson/typescript - 15 stars
