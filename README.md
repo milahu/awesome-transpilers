@@ -346,6 +346,17 @@
 
 
 
+### ccxt/crosspile
+
+- https://github.com/ccxt/crosspile - 60 stars
+- A cross-compiler from JavaScript to any language (currently, Python and PHP) // WORK IN PROGRESS (early stages)
+- written in: JavaScript
+- compiles from: JavaScript
+- compiles to: PHP, Python
+- last commit: 2017
+
+
+
 ### ccxt/ast-transpiler
 
 - https://github.com/ccxt/ast-transpiler - 20 stars
