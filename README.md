@@ -143,6 +143,22 @@
 - compiles to: JavaScript
 - last commit: 2022
 
+
+
+### winemaker
+
+- https://github.com/wine-mirror/wine/blob/master/tools/winemaker/winemaker - [upstream](https://source.winehq.org/git/wine.git/blob/HEAD:/tools/winemaker/winemaker)
+- https://wiki.winehq.org/Winemaker
+- part of wine: https://github.com/wine-mirror/wine - 3K stars - [upstream](https://source.winehq.org/git/wine.git)
+- https://wiki.winehq.org/Winemaker
+- convert Windows sources to Winelib programs
+- written in: Perl
+- languages: C, C++
+- compiles from: Windows
+- compiles to: Linux, BSD, MacOS, ...
+
+
+
 ### Js2Py
 
 - https://github.com/PiotrDabkowski/Js2Py - 2K stars
