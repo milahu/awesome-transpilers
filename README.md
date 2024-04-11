@@ -147,9 +147,11 @@
 
 ### winemaker
 
-- https://github.com/wine-mirror/wine/blob/master/tools/winemaker/winemaker - [upstream](https://source.winehq.org/git/wine.git/blob/HEAD:/tools/winemaker/winemaker)
+- https://gitlab.winehq.org/wine/wine/-/blob/master/tools/winemaker/winemaker
+   - github mirror: https://github.com/wine-mirror/wine/blob/master/tools/winemaker/winemaker
 - https://wiki.winehq.org/Winemaker
-- part of wine: https://github.com/wine-mirror/wine - 3K stars - [upstream](https://source.winehq.org/git/wine.git)
+- part of wine: https://gitlab.winehq.org/wine/wine
+  - github mirror: https://github.com/wine-mirror/wine - 3K stars
 - https://wiki.winehq.org/Winemaker
 - convert Windows sources to Winelib programs
 - written in: Perl
