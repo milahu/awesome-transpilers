@@ -375,6 +375,18 @@
 
 
 
+### bash2py
+
+- https://github.com/clarity20/bash2py - 30 stars
+- https://www.swag.uwaterloo.ca/bash2py/
+- Bash to Python script translator, implemented by modifying the bash C code, so that instead of executing bash commands, the modified tool simply emits (to the extent currently possible) the commands seen as equivalent Python statements.
+- written in: C
+- compiles from: Bash
+- compiles to: Python
+- last commit: 2023
+
+
+
 ### ccxt/ast-transpiler
 
 - https://github.com/ccxt/ast-transpiler - 20 stars
