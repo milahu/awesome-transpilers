@@ -832,6 +832,28 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
   - what language model is used by chatgpt to translate between programming languages?
     - As of my last update in January 2022, ChatGPT does not directly translate between programming languages. However, **OpenAI has developed models capable of code generation and understanding code in various programming languages, such as Codex, which powers GitHub Copilot.** These models are trained on large datasets of code and natural language to understand and generate code snippets based on human-written descriptions or code prompts. While ChatGPT itself may not directly perform programming language translation, it can be used in conjunction with such code generation models to facilitate communication or provide assistance in programming-related tasks.
 
+
+
+### code converter by codingfleet
+
+- https://codingfleet.com/code-converter/python/
+- works online
+- requires login for 5000 characters, otherwise only 1000 characters
+- https://codingfleet.com/pricing/
+  - free account: 5K characters per request, 10 requests per month
+  - pro account: 32K characters per request
+    - 5 usd / month = 50 requests per month
+    - 10 usd / month = 200 requests per month
+    - 24 usd / month = 1000 requests per month
+  - unlimited account: 200 usd / year: 64K characters per request
+- Languages: ABAP, APL, Ada, Assembly, Bash, C, C#, C++, COBOL, Clojure, CommonLisp, Crystal, Dart, Elixir, Elm, Erlang, F#, Fortran, Go, Groovy, Haskell, Java, Javascript, Julia, Kotlin, Lua, MATLAB, Nim, Node.js, OCaml, Objective-C, PHP, Pascal, Perl, PowerShell, Prolog, R, Ruby, Rust, SAS, SQL, Scala, Scheme, Swift, TypeScript, VHDL, Verilog, Zsh
+  - Databases: BigQuery, IBM, Db2, MySQL, PL/SQL, PostgreSQL, Redshift, SQLite, Snowflake, T-SQL
+  - Web Scraping: BeautifulSoup, Mechanize, Playwright, Puppeteer, Scrapy, Selenium
+  - Web Programming: ASP.NET, Angular, CherryPy, Django, Express.js, FastAPI, Flask, Laravel, Pyramid, Rails, React, Spring, Symfony, VueJS
+  - Deep Learning: Caffe, JAX, Keras, MXNet, PyTorch, TensorFlow, Theano
+
+
+
 ### TransCoder by Facebook
 
 - https://github.com/facebookresearch/TransCoder - 1.5K stars
