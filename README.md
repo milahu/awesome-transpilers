@@ -1041,6 +1041,16 @@ examples:
 
 
 
+### ruff
+
+- https://github.com/astral-sh/ruff - 30K stars
+- An extremely fast Python linter and code formatter, written in Rust.
+- written in: Rust
+- languages: Python
+- last commit: 2024
+
+
+
 ### CodART
 
 - https://github.com/m-zakeri/CodART - 30 stars
