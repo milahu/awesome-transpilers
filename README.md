@@ -1062,6 +1062,16 @@ examples:
 
 
 
+### libcst
+
+- https://github.com/Instagram/LibCST - 1.5K stars
+- A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
+- written in: Python
+- languages: Python
+- last commit: 2024
+
+
+
 ### bowler
 
 - https://github.com/facebookincubator/bowler - 1.5K stars
