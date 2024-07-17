@@ -1051,6 +1051,17 @@ examples:
 
 
 
+### rope
+
+- https://github.com/python-rope/rope - 2K stars
+- a python refactoring library
+- [list of refactorings](https://rope.readthedocs.io/en/latest/overview.html)
+- written in: Python
+- languages: Python
+- last commit: 2024
+
+
+
 ### CodART
 
 - https://github.com/m-zakeri/CodART - 30 stars
