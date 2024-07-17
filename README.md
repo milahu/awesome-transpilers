@@ -1041,6 +1041,17 @@ examples:
 
 
 
+### CodART
+
+- https://github.com/m-zakeri/CodART - 30 stars
+- Source Code Automated Refactoring Toolkit
+- We have currently focused on automating the various refactoring operations for Java source codes.
+- A complete list of refactoring supported by CodART can be found at [CodART refactorings list](https://m-zakeri.github.io/CodART/refactorings_list/).
+- written in: Python
+- last commit: 2024
+
+
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
