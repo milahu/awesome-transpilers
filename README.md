@@ -1021,6 +1021,26 @@ aka: partial evaluation, code optimizers, code optimization, dead code eliminati
 - [Online Tool to Convert Python Code to Java](https://www.javainuse.com/py2java)
 - [Online Tool to Convert Python Code to CSharp](https://www.javainuse.com/py2csharp)
 
+
+
+## code refactoring tools
+
+code refactoring is not "transpiling" code from language A to language B,  
+but reshaping the program design from [ugly](https://m-zakeri.github.io/CodART/code_smells_list/) to pretty code, 
+while keeping the original language,  
+and while keeping the original behavior of the code (same inputs, same outputs)
+
+examples: 
+
+- refactor procedural code to [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming) code
+  - [Convert from Procedural to Object Oriented Code](https://softwareengineering.stackexchange.com/questions/49995/convert-from-procedural-to-object-oriented-code)
+  - [How to change procedural code into object-oriented one](https://refactoring.pl/en/how-to-change-procedural-code-into-object-oriented-one/)
+- [Replace Conditional with Polymorphism](https://refactoring.guru/replace-conditional-with-polymorphism)
+- replace conditional code with a finite state machine
+  - [state design pattern](https://refactoring.guru/design-patterns/state)
+
+
+
 ## GitHub topics
 
 - https://github.com/topics/transpiler
