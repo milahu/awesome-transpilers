@@ -1062,6 +1062,18 @@ examples:
 
 
 
+### bowler
+
+- https://github.com/facebookincubator/bowler - 1.5K stars
+- Safe code refactoring for modern Python
+- status: deprecated
+  - deprecated in favor of [libcst](#libcst): "If you need to do codemods today, we recommend looking at [LibCST codemods](https://libcst.readthedocs.io/en/stable/codemods_tutorial.html) which are a bit more verbose, but work well on modern python grammars."
+- written in: Python
+- languages: Python 3.8
+- last commit: 2023
+
+
+
 ### CodART
 
 - https://github.com/m-zakeri/CodART - 30 stars
