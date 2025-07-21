@@ -473,13 +473,13 @@
 
 ### py2many
 
-- https://github.com/py2many/py2many - 500 stars
+- https://github.com/py2many/py2many - 950 stars
 - based on: https://github.com/konchunas/pyrs - 400 stars, Python to Rust transpiler
 - one to many
 - written in: Python
 - compiles from: Python
-- compiles to: Rust, C++, (Julia, Kotlin, Nim, Dart, Go)
-- last commit: 2022
+- compiles to: Rust, C++, (Julia, Kotlin, Nim, Dart, Go, Dlang, Vlang, Zig, Mojo)
+- last commit: 2025
 
 ### pyo3
 
