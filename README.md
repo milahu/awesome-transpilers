@@ -172,8 +172,7 @@
 - functions: `js2py.translate_js`, `js2py.translate_file`
 
 ### Fennel
-
-- https://github.com/bakpakin/Fennel - 2K stars
+- https://git.sr.ht/~technomancy/fennel - [2K stars](https://github.com/bakpakin/Fennel)
 - https://fennel-lang.org/
 - docs:
    - https://technomancy.us/192 - self-hosting, bootstrapping
