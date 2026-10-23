@@ -766,6 +766,17 @@ can be used for all languages
 - languages: C++, Java, COBOL, SQL, HTML, Verilog, ...
 - written in: PARLANSE = parallel language. As an example, the attribute evaluation process is automatically parallelized, and can often provide a linear speedup on an N-way SMP system.
 
+### faberlang/faber
+
+- https://github.com/faberlang/faber
+- https://faberlang.dev/
+- Faber: an experimental, statically typed language for coding agents and human authors
+- one to many: one front end, many emit targets, each measured against a reference interpreter
+- written in: Rust
+- compiles from: Faber
+- compiles to: Rust, TypeScript, Go, Swift, Python, C, LLVM IR, WebAssembly text (some emitters ship only in the official binary)
+- last commit: 2026
+
 ## Code generators
 
 - https://github.com/topics/code-generator
