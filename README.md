@@ -6,6 +6,7 @@
 ### Golang
 
 * [c2go](https://github.com/elliotchance/c2go) A tool for transpiling C to Go.
+* [GALA](https://github.com/martianoff/gala) A Scala-inspired functional language that transpiles to Go, with sealed types, exhaustive pattern matching and full Go module interop.
 * [Grumpy](https://github.com/google/grumpy) Grumpy is a Python to Go source code transcompiler and runtime.
 
 ### Java
